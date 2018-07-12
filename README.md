@@ -1,7 +1,3 @@
-# fieldMouse
-
-> A data collection application
-
 ## Usage
 
 ``` bash
